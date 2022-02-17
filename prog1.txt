@@ -1,0 +1,25 @@
+CS163
+Efficiency Review Write-up
+
+The data structure that I using dynamic arrays with linear linked list and some recursion. I feel like my structure performed for the program was useful for organizing the list but my implementation of the code did not work like I
+hope it would work.I tried my best to find the solution to the problem and even ask the t.a. for help and we both came to the solution that we cou;dn't figure out what was my problem with organizing my list when
+I'm trying to insert in the middle of my list and we cou'dn't figure out what is wrong with my item's function. If I hadn't deleted my code, I think I would have more time working on my program and understand my program deeply.
+
+The data structure that work better is if I substitued all of my linear linked list function with recursion. The reason why I believe this is best is because it would shorten my code and wouldn't take a lot of memory.
+I belief by shortening my code, the program will take up less memory and the program will also be more efficient when running. Also, the program doesn't need to traverse through the list every time it accessing through
+the list because the recursion would just use a recursive call instead to substitute all of these problems.
+
+The reason why I believe my program was efficient was because I was able to store each individual video or item into any order of the list and even have easy access with deleting wateer node it is in no
+matter the position of the node. Having this implementation allows the user the ease to pick and choose whatever they want with a particular node that is in the list. I also believe the reason why my data
+structure is efficient is because my code is implemented so that when the user is typing the info into static array it would be transfered into a dynamic array so that the linear linked list can hold onto all of the different type of
+descriptions.
+
+I feel like my program wasn't efficient when I used linear linked list for my data structure instead of using recursion. The reason why I believe this is because when I am attempting to add a new node to
+the end of my video list node it takes a huge chunk of memory than implementing a recursive function instead. I also believe in the future attempt ,for when I am adding a video node in order, it would be less efficient when I am using
+linear linked list than using another list like cicular linked list.
+
+The thing that I would do differently, is to solve the problem is to use recursion to count down the length of my code. I would also implement a way to organize my video in order according to the schedule.
+I really spent a lot of time trying to make my program work with organizing my video by schedule but I couldn't figure it out. One thing I would do differently in this program unrelated to the assignment is
+to save all of my code onto a backup file because when I was attempting to close my swap file, I accidently deleted all of my code and had to restart from scratch. One other thing I would do differently to
+solve the proble is to use double linked list to see if the new video should be added before the beginning of the list. This way allows easy access to travel behind and forward in the list to determine
+where the new node should be inserted. Although I am not familiar on using double linked list, I feel there are some aspect to usting this data structure that will benefit me with organizing the video.
